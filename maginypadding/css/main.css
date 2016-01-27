@@ -1,7 +1,23 @@
 div{
 	border: 2px solid red;
 	height: 250px;
-	width: 200px;
+	width: 200px;				
 	padding: 8px 8px;
 	
+}
+
+div{
+	border: 2px solid red;
+	height: 250px;
+	width: 200px;				
+	padding: 8px 8px;
+	margin: 10px;
+}
+
+div{
+	border: 2px solid red;
+	height: 250px;
+	width: 200px;				
+	padding: 8px 8px;
+	margin: 10px;
 }
