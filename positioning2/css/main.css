@@ -1,0 +1,29 @@
+div{
+	width: 200px;
+	height: 200px;
+}
+.naranja{
+	background-color: red;
+	position: static;
+}
+
+.morado{
+	background-color: purple;
+	position: relative;
+    width: 80px;
+	height: 80px;
+	bottom: 200px;
+	margin: 55px;
+}
+
+
+.amarillo{
+	background-color: yellow;
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	bottom: 30px;
+	top:8px;
+	margin: 55px;
+
+}
